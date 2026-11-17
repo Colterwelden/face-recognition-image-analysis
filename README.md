@@ -33,7 +33,7 @@ The application uses a pretrained model.
 
 Lower embedding distances indicate greater facial similarity. These values are not confidence percentages or calibrated probabilities.
 
-## Observed Results
+## Installation and Setup
 
 The original demonstration evaluated five group photographs containing the reference individual.
 
