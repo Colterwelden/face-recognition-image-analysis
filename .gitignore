@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Personal input photographs
+known_person.*
+group_images/
+
+# Generated results
+output_images/
+recognition_results.txt
+
+# Local configuration
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
